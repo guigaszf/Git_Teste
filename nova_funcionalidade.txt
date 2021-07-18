@@ -1,0 +1,1 @@
+Esse arquivo só será criado no branch "nova funcionalidade"
